@@ -76,6 +76,12 @@ body {
     margin: 100px 421px 26px 431px;
 }
 
+#formacao {
+    width: 1000px;
+    height: 400px;
+    padding-top: 10px;
+}
+
 #formacao ul {
     list-style: none;
 }
