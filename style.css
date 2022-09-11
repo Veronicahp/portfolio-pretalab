@@ -37,8 +37,8 @@ body {
 #apresentacao {
     width: 1000px;
     height: 579px;
-    background: #EDEAEA;
     padding-top: 48px;
+    background: #EDEAEA;
 }
 
 #apresentacao h1 {
@@ -118,6 +118,13 @@ body {
     line-height: 140%;
     margin: 8px 237px 50px 237px;
 
+}
+
+#projetos {
+    width: 1000px;
+    height: 400px;
+    padding-top: 10px;
+    background: #EDEAEA;
 }
 
 #projetos ul {
