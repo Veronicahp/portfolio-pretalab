@@ -107,7 +107,7 @@ body {
 }
 
 #formacao a {
-    text-decoration: none;
+    text-decoration: inherit;
     font-style: normal;
     font-weight: 400px;
     font-size: 14px;
@@ -159,7 +159,7 @@ body {
 }
 
 #projetos a {
-    text-decoration: none;
+    text-decoration: inherit;
     font-family: sans-serif;
     font-style: normal;
     font-weight: 400;
@@ -206,7 +206,7 @@ body {
 }
 
 #contatos a {
-    text-decoration: none; 
+    text-decoration: inherit; 
     color:#fff; 
 }
 
