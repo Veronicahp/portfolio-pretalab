@@ -175,7 +175,6 @@ body {
     text-decoration-line: underline;
     color: #000;
     margin: 0 464px 0 237px;
-
 }
 
 #projetos p {
@@ -184,7 +183,6 @@ body {
     font-size: 14px;
     line-height: 140%;
     margin: 8px 237px 50px 237px;
-
 }
 
 #contatos {
@@ -192,7 +190,6 @@ body {
     width: 1000px;
     height: 198px;
     background:#ff9999;
-    ;
 }
 
 #contatos ul {
@@ -205,7 +202,7 @@ body {
     margin: 30px;
     display: grid;
     align-items: center;
-    color:#fff;  
+    color:#fff;
 }
 
 #contatos li {
