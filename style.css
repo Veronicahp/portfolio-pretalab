@@ -1,20 +1,21 @@
 * {
     margin: 0;
     padding: 0;
+    text-decoration: none;
 }
 
 body {
-    background: #E5E5E5;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'ABeeZee', sans-serif;
     width: 1000px;
     margin: 0 auto;
+    background: #E5E5E5;
 }
 
 #header nav {
     width: 1000px;
     height: 103px;
     position:fixed;
-    background: #ff9999;
+    background:#929394;
 }
 
 #header ul {
@@ -25,38 +26,37 @@ body {
 }
 
 #header a {
-    text-decoration: inherit;
-    color: #fff;
     font-style: normal;
     font-weight: 700;
     font-size: 18px;
     line-height: 25px;
     width: 127px;
     height: 25px;
+    color: #fff;
 }
 
 #apresentacao {
     width: 1000px;
-    height: 650px;
-    background: #660033;
+    height: 700px;
+    background: #f2d7d6;
 }
 
 #apresentacao h1 {
     font-size: 36px;
     font-weight: 700;
-    line-height: 50px;
+    line-height: 80px;
     letter-spacing: 0em;
     text-align: center;
-    color: #999;
+    color: rgb(127, 124, 124);
 }
 
 #apresentacao h2 {
     font-size: 24px;
     font-weight: 700;
-    line-height: 34px;
+    line-height: 50px;
     letter-spacing: 0em;
     text-align: center;
-    color: #ff9999;
+    color: #ff7c7c;
 }
 
 #apresentacao-texto {
@@ -67,28 +67,21 @@ body {
     letter-spacing: 0em;
     margin: 0 200px;
     padding: 20px 10px;
-    color: #fff;
+    color: rgb(96, 93, 93);
 }
 
 #foto {
-    width: 180px;
-    height: 180px;
-    border-radius: 200px;
-    margin: 153px 410px 20px;
-}
-
-#imagem {
-    width: 80px;
-    height: 80px;
-    border-radius: 200px;
-    margin: 30px 450px;
+    width: 200px;
+    height: 200px;
+    border-radius: 110px;
+    margin: 160px 410px 20px;
 }
 
 #formacao {
     width: 1000px;
     height: 430px;
     padding-top: 10px;
-    background-color: #d3d3d3;
+    background-color: #f2d7d6;
 }
 
 #formacao ul {
@@ -100,46 +93,45 @@ body {
     font-weight: 700;
     font-size: 24px;
     line-height: 33px;
-    margin: 20px 0 50px 40px;
-    color: #660033;
+    margin: 20px 0 50px 80px;
+    color: #ff7c7c;
 }
 
 #formacao h3 {
     list-style: none;
     font-style: normal;
     font-weight: 700;
-    font-size: 16px;
-    line-height: 22px;
-    margin-left: 237px;
-    color: #660033;
+    font-size: 20px;
+    line-height: 30px;
+    margin-left: 200px;
+    color: #ff7c7c;
 }
 
 #formacao a {
-    text-decoration: inherit;
     font-style: normal;
     font-weight: 400px;
-    font-size: 14px;
-    line-height: 19px;
+    font-size: 16px;
+    line-height: 22px;
     text-decoration-line: underline;
-    color: #000;
-    margin: 0 464px 0 237px;
+    margin: 0 464px 0 200px;
+    color: rgb(96, 93, 93);
 
 }
 
 #formacao p {
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 140%;
-    margin: 8px 237px 50px 237px;
-
+    margin: 8px 200px 50px 200px;
+    color: rgb(96, 93, 93);
 }
 
 #projetos {
     width: 1000px;
-    height: 450px;
+    height: 430px;
     padding-top: 10px;
-    background: #d3d3d3;
+    background: #f2d7d6;
 }
 
 #projetos ul {
@@ -151,49 +143,47 @@ body {
     font-weight: 700;
     font-size: 24px;
     line-height: 33px;
-    margin: 20px 0 50px 40px;
-    color:#660033;
+    margin: 20px 0 50px 80px;
+    color:#ff7c7c;
 }
 
 #projetos h3 {
     list-style: none;
     font-style: normal;
     font-weight: 700;
-    font-size: 16px;
-    line-height: 22px;
-    margin-left: 237px;
-    color: #660033;
+    font-size: 20px;
+    line-height: 30px;
+    margin-left: 200px;
+    color: #ff7c7c;
 }
 
 #projetos a {
-    text-decoration: inherit;
-    font-family: sans-serif;
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
-    line-height: 19px;
+    font-size: 16px;
+    line-height: 22px;
     text-decoration-line: underline;
-    color: #000;
-    margin: 0 464px 0 237px;
+    margin: 0 464px 0 200px;
+    color: rgb(96, 93, 93);
 }
 
 #projetos p {
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 140%;
-    margin: 8px 237px 50px 237px;
+    margin: 8px 200px 50px 200px;
+    color: rgb(96, 93, 93);
 }
 
 #contatos {
     position: absolute;
     width: 1000px;
-    height: 198px;
-    background:#ff9999;
+    height: 200px;
+    background:#929394;
 }
 
 #contatos ul {
-    font-family: sans-serif;
     font-style: normal;
     font-weight: 700;
     font-size: 14px;
@@ -207,10 +197,10 @@ body {
 
 #contatos li {
     margin-bottom: 30px;
+    margin-left: 40px;
 }
 
 #contatos a {
-    text-decoration: inherit; 
     color:#fff; 
 }
 
